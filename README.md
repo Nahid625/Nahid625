@@ -1,13 +1,38 @@
-I'm currently working at  Backend & DevOps 
+# Hi, I'm Nahid
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
+Backend developer from Saidpur, Bangladesh. I build APIs that have to handle real money, real users and real third-party services, and I take care of the servers they run on.
+
+Right now I'm working on **Backend & DevOps** for [Tradeeaze](https://nahid-portfolio-1.onrender.com/), a UK marketplace that connects construction businesses with skilled tradespeople.
+
+## What I do
+
+- **APIs** in NestJS and TypeScript on PostgreSQL with Prisma. Cursor pagination, role guards, DTO validation, Swagger docs on every route.
+- **Payments** with Stripe: subscriptions, checkout, customer portal, signed webhooks with idempotent event handling, and an escrow flow on Stripe Connect.
+- **Auth**: email and phone OTP, Google / Apple / Facebook through Firebase, TOTP two-factor for admins, refresh-token rotation.
+- **Integrations**: Companies House (UK company verification), Google Maps geocoding, Postmark email, Twilio SMS, DigitalOcean Spaces (S3) with signed URLs, Groq / OpenAI for speech-to-text and search.
+- **DevOps**: Ubuntu VPS provisioning, systemd services, rsync deploys with migrations and health checks, GitHub Actions CI (lint, tests, Prisma migrate, code-ownership guard), Docker for local Postgres, secrets kept out of git.
+- **Working style**: unit tests on every service, mutation-checking the guards that matter, a changelog with every deploy.
+
+## Tech stack
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub stats
+
 ![](https://github-readme-stats.shion.dev/api?username=Nahid625&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Nahid625&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nahid625&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Nahid625&icon=0&color=3)](https://visitcount.itsvg.in)
+## Reach me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Portfolio: https://nahid-portfolio-1.onrender.com/ · Email: nayeemrocks22@gmail.com
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Nahid625&icon=0&color=3)](https://visitcount.itsvg.in)
