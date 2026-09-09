@@ -1,18 +1,10 @@
-# Hi, I'm Nahid
+# Yo, I'm Nahid
 
-Backend developer from Saidpur, Bangladesh. I build APIs that have to handle real money, real users and real third-party services, and I take care of the servers they run on.
-
+Backend developer from Saidpur, Bangladesh. I build System Infrastructure. And Scaleable Backend & Devops To Solv Complex business Problames. And Scale The System
 Right now I'm working on **Backend & DevOps** for [Tradeeaze](https://nahid-portfolio-1.onrender.com/), a UK marketplace that connects construction businesses with skilled tradespeople.
 
-## What I do
-
-- **APIs** in NestJS and TypeScript on PostgreSQL with Prisma. Cursor pagination, role guards, DTO validation, Swagger docs on every route.
-- **Payments** with Stripe: subscriptions, checkout, customer portal, signed webhooks with idempotent event handling, and an escrow flow on Stripe Connect.
-- **Auth**: email and phone OTP, Google / Apple / Facebook through Firebase, TOTP two-factor for admins, refresh-token rotation.
-- **Integrations**: Companies House (UK company verification), Google Maps geocoding, Postmark email, Twilio SMS, DigitalOcean Spaces (S3) with signed URLs, Groq / OpenAI for speech-to-text and search.
-- **DevOps**: Ubuntu VPS provisioning, systemd services, rsync deploys with migrations and health checks, GitHub Actions CI (lint, tests, Prisma migrate, code-ownership guard), Docker for local Postgres, secrets kept out of git.
 - **Working style**: unit tests on every service, mutation-checking the guards that matter, a changelog with every deploy.
-
+- **DevOps**: Ubuntu VPS provisioning, systemd services, rsync deploys with migrations and health checks, GitHub Actions CI (lint, tests, Prisma migrate, code-ownership guard), Docker for local Postgres, secrets kept out of git.
 ## Tech stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
