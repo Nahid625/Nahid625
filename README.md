@@ -23,12 +23,6 @@ Right now I'm working on **Backend & DevOps** for [Tradeeaze](https://nahid-port
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub stats
-
-![](https://github-readme-stats.shion.dev/api?username=Nahid625&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Nahid625&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nahid625&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## Reach me
 
 Portfolio: https://nahid-portfolio-1.onrender.com/ · Email: jr6259094@gmail.com
