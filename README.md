@@ -1,6 +1,6 @@
 # Yo, I'm Nahid
 
-Backend developer from Saidpur, Bangladesh. I build System Infrastructure. And Scaleable Backend & Devops To Solv Complex business Problames. And Scale The System
+Backend developer from Saidpur, Bangladesh. I build backend systems and scalable infrastructure to solve complex business problems. And Scale The System
 Right now I'm working on **Backend & DevOps** for [Tradeeaze](https://nahid-portfolio-1.onrender.com/), a UK marketplace that connects construction businesses with skilled tradespeople.
 
 - **Working style**: unit tests on every service, mutation-checking the guards that matter, a changelog with every deploy.
